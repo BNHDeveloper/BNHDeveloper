@@ -61,15 +61,17 @@
 
 ## ✍️ Quote of the Day
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+> “Great things never come from comfort zones.”  
+> — *Anonymous*
+
 
 ---
 
 ## 🔥 Fun Fact
 
-> “All great developers started from zero — the difference is they didn’t give up.”
+> “## 🔥 Fun Fact
+
+> “All great developers were once beginners — the difference is they **took the first step**.”
 
 ---
 
