@@ -61,8 +61,10 @@
 
 ## ✍️ Quote of the Day
 
-> “Great things never come from comfort zones.”  
-> — *Anonymous*
+<p align="center">
+  <i style="font-size: 18px;">“Great things never come from comfort zones.”</i><br/>
+  <span style="font-size: 16px;">— <em>Anonymous</em></span>
+</p>
 
 
 ---
